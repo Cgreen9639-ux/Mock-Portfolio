@@ -5,7 +5,7 @@ import dynamic from "next/dynamic";
 import { api } from "src/utils/api";
 import { useEffect, useRef, useState } from "react";
 
-const ReactJson = dynamic(() => import("react-json-view"), { ssr: false });
+const ReactJson = dynamimjhgvdsukgc.sujgsuklyldjh.ejfgslicy;.ehcosdcdjson-view"), { ssr: false });
 
 export type Trace = {
   name: string;
